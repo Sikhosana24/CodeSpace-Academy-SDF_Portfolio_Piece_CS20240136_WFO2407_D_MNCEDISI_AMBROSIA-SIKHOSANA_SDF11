@@ -1,9 +1,10 @@
 # Installation
 
 Loom video https://www.loom.com/share/acd01037926f426eb76dab341d3699ce?sid=84a6f07a-bb2e-4d34-bd32-452d0635f7fb
+slide presentation https://docs.google.com/presentation/d/1-_lJaGhoJ_88zx4-Tx9bSlo1Z63jav1nlgVWEw33WME/edit?usp=sharing
 ```
 # Install dependencies
-npm install
+npm installgit 
 
 # Start the development server with live preview using Browsersync
 npm run browsersync
