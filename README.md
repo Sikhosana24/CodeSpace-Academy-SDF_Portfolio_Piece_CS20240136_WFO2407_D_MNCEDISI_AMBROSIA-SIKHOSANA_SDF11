@@ -1,5 +1,6 @@
 # Installation
 
+Loom video https://www.loom.com/share/acd01037926f426eb76dab341d3699ce?sid=84a6f07a-bb2e-4d34-bd32-452d0635f7fb
 ```
 # Install dependencies
 npm install
